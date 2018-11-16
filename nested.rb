@@ -16,7 +16,7 @@ def hopper
         }
      }
   
-  grace_hopper
+  puts grace_hopper
 
 end
 
